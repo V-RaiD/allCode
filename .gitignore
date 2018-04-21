@@ -1,3 +1,9 @@
-*.out
-*.exe
-*.bin
+*
+!*/
+!.gitignore
+!*.c
+!*.cc
+!*.java
+!*.js
+!*.py
+!*.md
